@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ChildDialog</class>
+ <widget class="QDialog" name="ChildDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>462</width>
+    <height>602</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QWidget" name="gridLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>441</width>
+     <height>521</height>
+    </rect>
+   </property>
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="1" column="0">
+     <widget class="QLabel" name="from_label">
+      <property name="text">
+       <string>FROM</string>
+      </property>
+     </widget>
+    </item>
+    <item row="6" column="1">
+     <widget class="QTextEdit" name="having_in"/>
+    </item>
+    <item row="5" column="1">
+     <widget class="QTextEdit" name="groupby_in"/>
+    </item>
+    <item row="7" column="1">
+     <widget class="QTextEdit" name="orderby_in"/>
+    </item>
+    <item row="0" column="1">
+     <widget class="QTextEdit" name="select_in"/>
+    </item>
+    <item row="1" column="1">
+     <widget class="QTextEdit" name="from_in"/>
+    </item>
+    <item row="3" column="1">
+     <widget class="QTextEdit" name="where_in"/>
+    </item>
+    <item row="0" column="0">
+     <widget class="QLabel" name="select_label">
+      <property name="text">
+       <string>SELECT</string>
+      </property>
+     </widget>
+    </item>
+    <item row="7" column="0">
+     <widget class="QLabel" name="orderby_label">
+      <property name="text">
+       <string>ORDER BY</string>
+      </property>
+     </widget>
+    </item>
+    <item row="6" column="0">
+     <widget class="QLabel" name="having_label">
+      <property name="text">
+       <string>HAVING</string>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="0">
+     <widget class="QLabel" name="groupby_label">
+      <property name="text">
+       <string>GROUP BY</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="1">
+     <widget class="QPushButton" name="add_child_search_btn">
+      <property name="text">
+       <string>添加子查询</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="0" rowspan="3">
+     <widget class="QLabel" name="where_label">
+      <property name="text">
+       <string>WHERE</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QPushButton" name="cancel_btn">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>540</y>
+     <width>211</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>黑体</family>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>取消</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="accept_btn">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>540</y>
+     <width>211</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>黑体</family>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>确认</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,756 @@
+
+==第一世代==
+{{Movelist/gen|1|拍击|はたく|Pound|一般|物理|40|100|35}}
+{{Movelist/gen|2|空手劈|からてチョップ|Karate Chop|格斗|物理|50|100|25}}
+{{Movelist/gen|3|连环巴掌|おうふくビンタ|Double Slap|一般|物理|15|85|10}}
+{{Movelist/gen|4|连续拳|れんぞくパンチ|Comet Punch|一般|物理|18|85|15}}
+{{Movelist/gen|5|百万吨重拳|メガトンパンチ|Mega Punch|一般|物理|80|85|20}}
+{{Movelist/gen|6|聚宝功|ネコにこばん|Pay Day|一般|物理|40|100|20}}
+{{Movelist/gen|7|火焰拳|ほのおのパンチ|Fire Punch|火|物理|75|100|15}}
+{{Movelist/gen|8|冰冻拳|れいとうパンチ|Ice Punch|冰|物理|75|100|15}}
+{{Movelist/gen|9|雷电拳|かみなりパンチ|Thunder Punch|电|物理|75|100|15}}
+{{Movelist/gen|10|抓|ひっかく|Scratch|一般|物理|40|100|35}}
+{{Movelist/gen|11|夹住|はさむ|Vice Grip|一般|物理|55|100|30}}
+{{Movelist/gen|12|断头钳|ハサミギロチン|Guillotine|一般|物理|变化|变化|5}}
+{{Movelist/gen|13|旋风刀|かまいたち|Razor Wind|一般|特殊|80|100|10}}
+{{Movelist/gen|14|剑舞|つるぎのまい|Swords Dance|一般|变化|—|—|20}}
+{{Movelist/gen|15|居合斩|いあいぎり|Cut|一般|物理|50|95|30}}
+{{Movelist/gen|16|起风|かぜおこし|Gust|飞行|特殊|40|100|35}}
+{{Movelist/gen|17|翅膀攻击|つばさでうつ|Wing Attack|飞行|物理|60|100|35}}
+{{Movelist/gen|18|吹飞|ふきとばし|Whirlwind|一般|变化|—|100|20}}
+{{Movelist/gen|19|飞翔|そらをとぶ|Fly|飞行|物理|90|95|15}}
+{{Movelist/gen|20|绑紧|しめつける|Bind|一般|物理|15|85|20}}
+{{Movelist/gen|21|摔打|たたきつける|Slam|一般|物理|80|75|20}}
+{{Movelist/gen|22|藤鞭|つるのムチ|Vine Whip|草|物理|45|100|25}}
+{{Movelist/gen|23|踩踏|ふみつけ|Stomp|一般|物理|65|100|20}}
+{{Movelist/gen|24|二连踢|にどげり|Double Kick|格斗|物理|30|100|30}}
+{{Movelist/gen|25|百万吨重踢|メガトンキック|Mega Kick|一般|物理|120|75|5}}
+{{Movelist/gen|26|飞踢|とびげり|Jump Kick|格斗|物理|100|95|10}}
+{{Movelist/gen|27|回旋踢|まわしげり|Rolling Kick|格斗|物理|60|85|15}}
+{{Movelist/gen|28|泼沙|すなかけ|Sand Attack|地面|变化|—|100|15}}
+{{Movelist/gen|29|头锤|ずつき|Headbutt|一般|物理|70|100|15}}
+{{Movelist/gen|30|角撞|つのでつく|Horn Attack|一般|物理|65|100|25}}
+{{Movelist/gen|31|乱击|みだれづき|Fury Attack|一般|物理|15|85|20}}
+{{Movelist/gen|32|角钻|つのドリル|Horn Drill|一般|物理|变化|变化|5}}
+{{Movelist/gen|33|撞击|たいあたり|Tackle|一般|物理|40|100|35}}
+{{Movelist/gen|34|泰山压顶|のしかかり|Body Slam|一般|物理|85|100|15}}
+{{Movelist/gen|35|紧束|まきつく|Wrap|一般|物理|15|90|20}}
+{{Movelist/gen|36|猛撞|とっしん|Take Down|一般|物理|90|85|20}}
+{{Movelist/gen|37|大闹一番|あばれる|Thrash|一般|物理|120|100|10}}
+{{Movelist/gen|38|舍身冲撞|すてみタックル|Double-Edge|一般|物理|120|100|15}}
+{{Movelist/gen|39|摇尾巴|しっぽをふる|Tail Whip|一般|变化|—|100|30}}
+{{Movelist/gen|40|毒针|どくばり|Poison Sting|毒|物理|15|100|35}}
+{{Movelist/gen|41|双针|ダブルニードル|Twineedle|虫|物理|25|100|20}}
+{{Movelist/gen|42|飞弹针|ミサイルばり|Pin Missile|虫|物理|25|95|20}}
+{{Movelist/gen|43|瞪眼|にらみつける|Leer|一般|变化|—|100|30}}
+{{Movelist/gen|44|咬住|かみつく|Bite|恶|物理|60|100|25}}
+{{Movelist/gen|45|叫声|なきごえ|Growl|一般|变化|—|100|40}}
+{{Movelist/gen|46|吼叫|ほえる|Roar|一般|变化|—|—|20}}
+{{Movelist/gen|47|唱歌|うたう|Sing|一般|变化|—|55|15}}
+{{Movelist/gen|48|超音波|ちょうおんぱ|Supersonic|一般|变化|—|55|20}}
+{{Movelist/gen|49|音爆|ソニックブーム|Sonic Boom|一般|特殊|变化|90|20}}
+{{Movelist/gen|50|定身法|かなしばり|Disable|一般|变化|—|100|20}}
+{{Movelist/gen|51|溶解液|ようかいえき|Acid|毒|特殊|40|100|30}}
+{{Movelist/gen|52|火花|ひのこ|Ember|火|特殊|40|100|25}}
+{{Movelist/gen|53|喷射火焰|かえんほうしゃ|Flamethrower|火|特殊|90|100|15}}
+{{Movelist/gen|54|白雾|しろいきり|Mist|冰|变化|—|—|30}}
+{{Movelist/gen|55|水枪|みずでっぽう|Water Gun|水|特殊|40|100|25}}
+{{Movelist/gen|56|水炮|ハイドロポンプ|Hydro Pump|水|特殊|110|80|5}}
+{{Movelist/gen|57|冲浪|なみのり|Surf|水|特殊|90|100|15}}
+{{Movelist/gen|58|冰冻光束|れいとうビーム|Ice Beam|冰|特殊|90|100|10}}
+{{Movelist/gen|59|暴风雪|ふぶき|Blizzard|冰|特殊|110|70|5}}
+{{Movelist/gen|60|幻象光线|サイケこうせん|Psybeam|超能力|特殊|65|100|20}}
+{{Movelist/gen|61|泡沫光线|バブルこうせん|Bubble Beam|水|特殊|65|100|20}}
+{{Movelist/gen|62|极光束|オーロラビーム|Aurora Beam|冰|特殊|65|100|20}}
+{{Movelist/gen|63|破坏光线|はかいこうせん|Hyper Beam|一般|特殊|150|90|5}}
+{{Movelist/gen|64|啄|つつく|Peck|飞行|物理|35|100|35}}
+{{Movelist/gen|65|啄钻|ドリルくちばし|Drill Peck|飞行|物理|80|100|20}}
+{{Movelist/gen|66|地狱翻滚|じごくぐるま|Submission|格斗|物理|80|80|20}}
+{{Movelist/gen|67|踢倒|けたぐり|Low Kick|格斗|物理|变化|100|20}}
+{{Movelist/gen|68|双倍奉还|カウンター|Counter|格斗|物理|变化|100|20}}
+{{Movelist/gen|69|地球上投|ちきゅうなげ|Seismic Toss|格斗|物理|变化|100|20}}
+{{Movelist/gen|70|怪力|かいりき|Strength|一般|物理|80|100|15}}
+{{Movelist/gen|71|吸取|すいとる|Absorb|草|特殊|20|100|25}}
+{{Movelist/gen|72|超级吸取|メガドレイン|Mega Drain|草|特殊|40|100|15}}
+{{Movelist/gen|73|寄生种子|やどりぎのタネ|Leech Seed|草|变化|—|90|10}}
+{{Movelist/gen|74|生长|せいちょう|Growth|一般|变化|—|—|40}}
+{{Movelist/gen|75|飞叶快刀|はっぱカッター|Razor Leaf|草|物理|55|95|25}}
+{{Movelist/gen|76|日光束|ソーラービーム|Solar Beam|草|特殊|120|100|10}}
+{{Movelist/gen|77|毒粉|どくのこな|Poison Powder|毒|变化|—|75|35}}
+{{Movelist/gen|78|麻痹粉|しびれごな|Stun Spore|草|变化|—|75|30}}
+{{Movelist/gen|79|催眠粉|ねむりごな|Sleep Powder|草|变化|—|75|15}}
+{{Movelist/gen|80|花瓣舞|はなびらのまい|Petal Dance|草|特殊|120|100|10}}
+{{Movelist/gen|81|吐丝|いとをはく|String Shot|虫|变化|—|95|40}}
+{{Movelist/gen|82|龙之怒|りゅうのいかり|Dragon Rage|龙|特殊|变化|100|10}}
+{{Movelist/gen|83|火焰旋涡|ほのおのうず|Fire Spin|火|特殊|35|85|15}}
+{{Movelist/gen|84|电击|でんきショック|Thunder Shock|电|特殊|40|100|30}}
+{{Movelist/gen|85|十万伏特|１０まんボルト|Thunderbolt|电|特殊|90|100|15}}
+{{Movelist/gen|86|电磁波|でんじは|Thunder Wave|电|变化|—|90|20}}
+{{Movelist/gen|87|打雷|かみなり|Thunder|电|特殊|110|70|10}}
+{{Movelist/gen|88|落石|いわおとし|Rock Throw|岩石|物理|50|90|15}}
+{{Movelist/gen|89|地震|じしん|Earthquake|地面|物理|100|100|10}}
+{{Movelist/gen|90|地裂|じわれ|Fissure|地面|物理|变化|变化|5}}
+{{Movelist/gen|91|挖洞|あなをほる|Dig|地面|物理|80|100|10}}
+{{Movelist/gen|92|剧毒|どくどく|Toxic|毒|变化|—|90|10}}
+{{Movelist/gen|93|念力|ねんりき|Confusion|超能力|特殊|50|100|25}}
+{{Movelist/gen|94|精神强念|サイコキネシス|Psychic|超能力|特殊|90|100|10}}
+{{Movelist/gen|95|催眠术|さいみんじゅつ|Hypnosis|超能力|变化|—|60|20}}
+{{Movelist/gen|96|瑜伽姿势|ヨガのポーズ|Meditate|超能力|变化|—|—|40}}
+{{Movelist/gen|97|高速移动|こうそくいどう|Agility|超能力|变化|—|—|30}}
+{{Movelist/gen|98|电光一闪|でんこうせっか|Quick Attack|一般|物理|40|100|30}}
+{{Movelist/gen|99|愤怒|いかり|Rage|一般|物理|20|100|20}}
+{{Movelist/gen|100|瞬间移动|テレポート|Teleport|超能力|变化|—|—|20}}
+{{Movelist/gen|101|黑夜魔影|ナイトヘッド|Night Shade|幽灵|特殊|变化|100|15}}
+{{Movelist/gen|102|模仿|ものまね|Mimic|一般|变化|—|—|10}}
+{{Movelist/gen|103|刺耳声|いやなおと|Screech|一般|变化|—|85|40}}
+{{Movelist/gen|104|影子分身|かげぶんしん|Double Team|一般|变化|—|—|15}}
+{{Movelist/gen|105|自我再生|じこさいせい|Recover|一般|变化|—|—|10}}
+{{Movelist/gen|106|变硬|かたくなる|Harden|一般|变化|—|—|30}}
+{{Movelist/gen|107|变小|ちいさくなる|Minimize|一般|变化|—|—|10}}
+{{Movelist/gen|108|烟幕|えんまく|Smokescreen|一般|变化|—|100|20}}
+{{Movelist/gen|109|奇异之光|あやしいひかり|Confuse Ray|幽灵|变化|—|100|10}}
+{{Movelist/gen|110|缩入壳中|からにこもる|Withdraw|水|变化|—|—|40}}
+{{Movelist/gen|111|变圆|まるくなる|Defense Curl|一般|变化|—|—|40}}
+{{Movelist/gen|112|屏障|バリアー|Barrier|超能力|变化|—|—|20}}
+{{Movelist/gen|113|光墙|ひかりのかべ|Light Screen|超能力|变化|—|—|30}}
+{{Movelist/gen|114|黑雾|くろいきり|Haze|冰|变化|—|—|30}}
+{{Movelist/gen|115|反射壁|リフレクター|Reflect|超能力|变化|—|—|20}}
+{{Movelist/gen|116|聚气|きあいだめ|Focus Energy|一般|变化|—|—|30}}
+{{Movelist/gen|117|忍耐|がまん|Bide|一般|物理|变化|—|10}}
+{{Movelist/gen|118|挥指|ゆびをふる|Metronome|一般|变化|—|—|10}}
+{{Movelist/gen|119|鹦鹉学舌|オウムがえし|Mirror Move|飞行|变化|—|—|20}}
+{{Movelist/gen|120|自爆|じばく|Self-Destruct|一般|物理|200|100|5}}
+{{Movelist/gen|121|炸蛋|タマゴばくだん|Egg Bomb|一般|物理|100|75|10}}
+{{Movelist/gen|122|舌舔|したでなめる|Lick|幽灵|物理|30|100|30}}
+{{Movelist/gen|123|浊雾|スモッグ|Smog|毒|特殊|30|70|20}}
+{{Movelist/gen|124|污泥攻击|ヘドロこうげき|Sludge|毒|特殊|65|100|20}}
+{{Movelist/gen|125|骨棒|ホネこんぼう|Bone Club|地面|物理|65|85|20}}
+{{Movelist/gen|126|大字爆炎|だいもんじ|Fire Blast|火|特殊|110|85|5}}
+{{Movelist/gen|127|攀瀑|たきのぼり|Waterfall|水|物理|80|100|15}}
+{{Movelist/gen|128|贝壳夹击|からではさむ|Clamp|水|物理|35|85|15}}
+{{Movelist/gen|129|高速星星|スピードスター|Swift|一般|特殊|60|—|20}}
+{{Movelist/gen|130|火箭头锤|ロケットずつき|Skull Bash|一般|物理|130|100|10}}
+{{Movelist/gen|131|尖刺加农炮|とげキャノン|Spike Cannon|一般|物理|20|100|15}}
+{{Movelist/gen|132|缠绕|からみつく|Constrict|一般|物理|10|100|35}}
+{{Movelist/gen|133|瞬间失忆|ドわすれ|Amnesia|超能力|变化|—|—|20}}
+{{Movelist/gen|134|折弯汤匙|スプーンまげ|Kinesis|超能力|变化|—|80|15}}
+{{Movelist/gen|135|生蛋|タマゴうみ|Soft-Boiled|一般|变化|—|—|10}}
+{{Movelist/gen|136|飞膝踢|とびひざげり|{{tt|High Jump Kick|第六世代之前為Hi Jump Kick}}|格斗|物理|130|90|10}}
+{{Movelist/gen|137|大蛇瞪眼|へびにらみ|Glare|一般|变化|—|100|30}}
+{{Movelist/gen|138|食梦|ゆめくい|Dream Eater|超能力|特殊|100|100|15}}
+{{Movelist/gen|139|毒瓦斯|どくガス|Poison Gas|毒|变化|—|90|40}}
+{{Movelist/gen|140|投球|たまなげ|Barrage|一般|物理|15|85|20}}
+{{Movelist/gen|141|吸血|きゅうけつ|Leech Life|虫|物理|80|100|10}}
+{{Movelist/gen|142|恶魔之吻|あくまのキッス|Lovely Kiss|一般|变化|—|75|10}}
+{{Movelist/gen|143|神鸟猛击|ゴッドバード|Sky Attack|飞行|物理|140|90|5}}
+{{Movelist/gen|144|变身|へんしん|Transform|一般|变化|—|—|10}}
+{{Movelist/gen|145|泡沫|あわ|Bubble|水|特殊|40|100|30}}
+{{Movelist/gen|146|迷昏拳|ピヨピヨパンチ|Dizzy Punch|一般|物理|70|100|10}}
+{{Movelist/gen|147|蘑菇孢子|キノコのほうし|Spore|草|变化|—|100|15}}
+{{Movelist/gen|148|闪光|フラッシュ|Flash|一般|变化|—|100|20}}
+{{Movelist/gen|149|精神波|サイコウェーブ|Psywave|超能力|特殊|变化|100|15}}
+{{Movelist/gen|150|跃起|はねる|Splash|一般|变化|—|—|40}}
+{{Movelist/gen|151|溶化|とける|Acid Armor|毒|变化|—|—|20}}
+{{Movelist/gen|152|蟹钳锤|クラブハンマー|Crabhammer|水|物理|100|90|10}}
+{{Movelist/gen|153|大爆炸|だいばくはつ|Explosion|一般|物理|250|100|5}}
+{{Movelist/gen|154|乱抓|みだれひっかき|Fury Swipes|一般|物理|18|80|15}}
+{{Movelist/gen|155|骨头回力镖|ホネブーメラン|Bonemerang|地面|物理|50|90|10}}
+{{Movelist/gen|156|睡觉|ねむる|Rest|超能力|变化|—|—|10}}
+{{Movelist/gen|157|岩崩|いわなだれ|Rock Slide|岩石|物理|75|90|10}}
+{{Movelist/gen|158|必杀门牙|ひっさつまえば|Hyper Fang|一般|物理|80|90|15}}
+{{Movelist/gen|159|棱角化|かくばる|Sharpen|一般|变化|—|—|30}}
+{{Movelist/gen|160|纹理|テクスチャー|Conversion|一般|变化|—|—|30}}
+{{Movelist/gen|161|三重攻击|トライアタック|Tri Attack|一般|特殊|80|100|10}}
+{{Movelist/gen|162|愤怒门牙|いかりのまえば|Super Fang|一般|物理|变化|90|10}}
+{{Movelist/gen|163|劈开|きりさく|Slash|一般|物理|70|100|20}}
+{{Movelist/gen|164|替身|みがわり|Substitute|一般|变化|—|—|10}}
+{{Movelist/gen|165|挣扎|わるあがき|Struggle|一般|物理|50|—|—}}
+
+==第二世代==
+{{Movelist/gen|166|写生|スケッチ|Sketch|一般|变化|—|—|1}}
+{{Movelist/gen|167|三连踢|トリプルキック|Triple Kick|格斗|物理|10|90|10}}
+{{Movelist/gen|168|小偷|どろぼう|Thief|恶|物理|60|100|25}}
+{{Movelist/gen|169|蛛网|クモのす|Spider Web|虫|变化|—|—|10}}
+{{Movelist/gen|170|心之眼|こころのめ|Mind Reader|一般|变化|—|—|5}}
+{{Movelist/gen|171|恶梦|あくむ|Nightmare|幽灵|变化|—|100|15}}
+{{Movelist/gen|172|火焰轮|かえんぐるま|Flame Wheel|火|物理|60|100|25}}
+{{Movelist/gen|173|打鼾|いびき|Snore|一般|特殊|50|100|15}}
+{{Movelist/gen|174|诅咒|のろい|Curse|幽灵|变化|—|—|10}}
+{{Movelist/gen|175|抓狂|じたばた|Flail|一般|物理|变化|100|15}}
+{{Movelist/gen|176|纹理２|テクスチャー２|Conversion 2|一般|变化|—|—|30}}
+{{Movelist/gen|177|气旋攻击|エアロブラスト|Aeroblast|飞行|特殊|100|95|5}}
+{{Movelist/gen|178|棉孢子|わたほうし|Cotton Spore|草|变化|—|100|40}}
+{{Movelist/gen|179|起死回生|きしかいせい|Reversal|格斗|物理|变化|100|15}}
+{{Movelist/gen|180|怨恨|うらみ|Spite|幽灵|变化|—|100|10}}
+{{Movelist/gen|181|细雪|こなゆき|Powder Snow|冰|特殊|40|100|25}}
+{{Movelist/gen|182|守住|まもる|Protect|一般|变化|—|—|10}}
+{{Movelist/gen|183|音速拳|マッハパンチ|Mach Punch|格斗|物理|40|100|30}}
+{{Movelist/gen|184|鬼面|こわいかお|Scary Face|一般|变化|—|100|10}}
+{{Movelist/gen|185|出奇一击|だましうち|Feint Attack|恶|物理|60|—|20}}
+{{Movelist/gen|186|天使之吻|てんしのキッス|Sweet Kiss|妖精|变化|—|75|10}}
+{{Movelist/gen|187|腹鼓|はらだいこ|Belly Drum|一般|变化|—|—|10}}
+{{Movelist/gen|188|污泥炸弹|ヘドロばくだん|Sludge Bomb|毒|特殊|90|100|10}}
+{{Movelist/gen|189|掷泥|どろかけ|Mud-Slap|地面|特殊|20|100|10}}
+{{Movelist/gen|190|章鱼桶炮|オクタンほう|Octazooka|水|特殊|65|85|10}}
+{{Movelist/gen|191|撒菱|まきびし|Spikes|地面|变化|—|—|20}}
+{{Movelist/gen|192|电磁炮|でんじほう|Zap Cannon|电|特殊|120|50|5}}
+{{Movelist/gen|193|识破|みやぶる|Foresight|一般|变化|—|—|40}}
+{{Movelist/gen|194|同命|みちづれ|Destiny Bond|幽灵|变化|—|—|5}}
+{{Movelist/gen|195|灭亡之歌|ほろびのうた|Perish Song|一般|变化|—|—|5}}
+{{Movelist/gen|196|冰冻之风|こごえるかぜ|Icy Wind|冰|特殊|55|95|15}}
+{{Movelist/gen|197|看穿|みきり|Detect|格斗|变化|—|—|5}}
+{{Movelist/gen|198|骨棒乱打|ボーンラッシュ|Bone Rush|地面|物理|25|90|10}}
+{{Movelist/gen|199|锁定|ロックオン|Lock-On|一般|变化|—|—|5}}
+{{Movelist/gen|200|逆鳞|げきりん|Outrage|龙|物理|120|100|15}}
+{{Movelist/gen|201|沙暴|すなあらし|Sandstorm|岩石|变化|—|—|10}}
+{{Movelist/gen|202|终极吸取|ギガドレイン|Giga Drain|草|特殊|75|100|10}}
+{{Movelist/gen|203|挺住|こらえる|Endure|一般|变化|—|—|10}}
+{{Movelist/gen|204|撒娇|あまえる|Charm|妖精|变化|—|100|20}}
+{{Movelist/gen|205|滚动|ころがる|Rollout|岩石|物理|30|90|20}}
+{{Movelist/gen|206|点到为止|みねうち|False Swipe|一般|物理|40|100|40}}
+{{Movelist/gen|207|虚张声势|いばる|Swagger|一般|变化|—|85|15}}
+{{Movelist/gen|208|喝牛奶|ミルクのみ|Milk Drink|一般|变化|—|—|10}}
+{{Movelist/gen|209|电光|スパーク|Spark|电|物理|65|100|20}}
+{{Movelist/gen|210|连斩|れんぞくぎり|Fury Cutter|虫|物理|40|95|20}}
+{{Movelist/gen|211|钢翼|はがねのつばさ|Steel Wing|钢|物理|70|90|25}}
+{{Movelist/gen|212|黑色目光|くろいまなざし|Mean Look|一般|变化|—|—|5}}
+{{Movelist/gen|213|迷人|メロメロ|Attract|一般|变化|—|100|15}}
+{{Movelist/gen|214|梦话|ねごと|Sleep Talk|一般|变化|—|—|10}}
+{{Movelist/gen|215|治愈铃声|いやしのすず|Heal Bell|一般|变化|—|—|5}}
+{{Movelist/gen|216|报恩|おんがえし|Return|一般|物理|变化|100|20}}
+{{Movelist/gen|217|礼物|プレゼント|Present|一般|物理|变化|90|15}}
+{{Movelist/gen|218|迁怒|やつあたり|Frustration|一般|物理|变化|100|20}}
+{{Movelist/gen|219|神秘守护|しんぴのまもり|Safeguard|一般|变化|—|—|25}}
+{{Movelist/gen|220|分担痛楚|いたみわけ|Pain Split|一般|变化|—|—|20}}
+{{Movelist/gen|221|神圣之火|せいなるほのお|Sacred Fire|火|物理|100|95|5}}
+{{Movelist/gen|222|震级|マグニチュード|Magnitude|地面|物理|变化|100|30}}
+{{Movelist/gen|223|爆裂拳|ばくれつパンチ|Dynamic Punch|格斗|物理|100|50|5}}
+{{Movelist/gen|224|超级角击|メガホーン|Megahorn|虫|物理|120|85|10}}
+{{Movelist/gen|225|龙息|りゅうのいぶき|Dragon Breath|龙|特殊|60|100|20}}
+{{Movelist/gen|226|接棒|バトンタッチ|Baton Pass|一般|变化|—|—|40}}
+{{Movelist/gen|227|再来一次|アンコール|Encore|一般|变化|—|100|5}}
+{{Movelist/gen|228|追打|おいうち|Pursuit|恶|物理|40|100|20}}
+{{Movelist/gen|229|高速旋转|こうそくスピン|Rapid Spin|一般|物理|20|100|40}}
+{{Movelist/gen|230|甜甜香气|あまいかおり|Sweet Scent|一般|变化|—|100|20}}
+{{Movelist/gen|231|铁尾|アイアンテール|Iron Tail|钢|物理|100|75|15}}
+{{Movelist/gen|232|金属爪|メタルクロー|Metal Claw|钢|物理|50|95|35}}
+{{Movelist/gen|233|借力摔|あてみなげ|Vital Throw|格斗|物理|70|—|10}}
+{{Movelist/gen|234|晨光|あさのひざし|Morning Sun|一般|变化|—|—|5}}
+{{Movelist/gen|235|光合作用|こうごうせい|Synthesis|草|变化|—|—|5}}
+{{Movelist/gen|236|月光|つきのひかり|Moonlight|妖精|变化|—|—|5}}
+{{Movelist/gen|237|觉醒力量|めざめるパワー|Hidden Power|一般|特殊|60|100|15}}
+{{Movelist/gen|238|十字劈|クロスチョップ|Cross Chop|格斗|物理|100|80|5}}
+{{Movelist/gen|239|龙卷风|たつまき|Twister|龙|特殊|40|100|20}}
+{{Movelist/gen|240|求雨|あまごい|Rain Dance|水|变化|—|—|5}}
+{{Movelist/gen|241|大晴天|にほんばれ|Sunny Day|火|变化|—|—|5}}
+{{Movelist/gen|242|咬碎|かみくだく|Crunch|恶|物理|80|100|15}}
+{{Movelist/gen|243|镜面反射|ミラーコート|Mirror Coat|超能力|特殊|变化|100|20}}
+{{Movelist/gen|244|自我暗示|じこあんじ|Psych Up|一般|变化|—|—|10}}
+{{Movelist/gen|245|神速|しんそく|Extreme Speed|一般|物理|80|100|5}}
+{{Movelist/gen|246|原始之力|げんしのちから|Ancient Power|岩石|特殊|60|100|5}}
+{{Movelist/gen|247|暗影球|シャドーボール|Shadow Ball|幽灵|特殊|80|100|15}}
+{{Movelist/gen|248|预知未来|みらいよち|Future Sight|超能力|特殊|120|100|10}}
+{{Movelist/gen|249|碎岩|いわくだき|Rock Smash|格斗|物理|40|100|15}}
+{{Movelist/gen|250|潮旋|うずしお|Whirlpool|水|特殊|35|85|15}}
+{{Movelist/gen|251|围攻|ふくろだたき|Beat Up|恶|物理|变化|100|10}}
+
+==第三世代==
+{{Movelist/gen|252|击掌奇袭|ねこだまし|Fake Out|一般|物理|40|100|10}}
+{{Movelist/gen|253|吵闹|さわぐ|Uproar|一般|特殊|90|100|10}}
+{{Movelist/gen|254|蓄力|たくわえる|Stockpile|一般|变化|—|—|20}}
+{{Movelist/gen|255|喷出|はきだす|Spit Up|一般|特殊|变化|100|10}}
+{{Movelist/gen|256|吞下|のみこむ|Swallow|一般|变化|—|—|10}}
+{{Movelist/gen|257|热风|ねっぷう|Heat Wave|火|特殊|95|90|10}}
+{{Movelist/gen|258|冰雹|あられ|Hail|冰|变化|—|—|10}}
+{{Movelist/gen|259|无理取闹|いちゃもん|Torment|恶|变化|—|100|15}}
+{{Movelist/gen|260|吹捧|おだてる|Flatter|恶|变化|—|100|15}}
+{{Movelist/gen|261|鬼火|おにび|Will-O-Wisp|火|变化|—|85|15}}
+{{Movelist/gen|262|临别礼物|おきみやげ|Memento|恶|变化|—|100|10}}
+{{Movelist/gen|263|硬撑|からげんき|Facade|一般|物理|70|100|20}}
+{{Movelist/gen|264|真气拳|きあいパンチ|Focus Punch|格斗|物理|150|100|20}}
+{{Movelist/gen|265|清醒|きつけ|Smelling Salts|一般|物理|70|100|10}}
+{{Movelist/gen|266|看我嘛|このゆびとまれ|Follow Me|一般|变化|—|—|20}}
+{{Movelist/gen|267|自然之力|しぜんのちから|Nature Power|一般|变化|—|—|20}}
+{{Movelist/gen|268|充电|じゅうでん|Charge|电|变化|—|—|20}}
+{{Movelist/gen|269|挑衅|ちょうはつ|Taunt|恶|变化|—|100|20}}
+{{Movelist/gen|270|帮助|てだすけ|Helping Hand|一般|变化|—|—|20}}
+{{Movelist/gen|271|戏法|トリック|Trick|超能力|变化|—|100|10}}
+{{Movelist/gen|272|扮演|なりきり|Role Play|超能力|变化|—|—|10}}
+{{Movelist/gen|273|祈愿|ねがいごと|Wish|一般|变化|—|—|10}}
+{{Movelist/gen|274|借助|ねこのて|Assist|一般|变化|—|—|20}}
+{{Movelist/gen|275|扎根|ねをはる|Ingrain|草|变化|—|—|20}}
+{{Movelist/gen|276|蛮力|ばかぢから|Superpower|格斗|物理|120|100|5}}
+{{Movelist/gen|277|魔法反射|マジックコート|Magic Coat|超能力|变化|—|—|15}}
+{{Movelist/gen|278|回收利用|リサイクル|Recycle|一般|变化|—|—|10}}
+{{Movelist/gen|279|报复|リベンジ|Revenge|格斗|物理|60|100|10}}
+{{Movelist/gen|280|劈瓦|かわらわり|Brick Break|格斗|物理|75|100|15}}
+{{Movelist/gen|281|哈欠|あくび|Yawn|一般|变化|—|—|10}}
+{{Movelist/gen|282|拍落|はたきおとす|Knock Off|恶|物理|65|100|20}}
+{{Movelist/gen|283|蛮干|がむしゃら|Endeavor|一般|物理|变化|100|5}}
+{{Movelist/gen|284|喷火|ふんか|Eruption|火|特殊|150|100|5}}
+{{Movelist/gen|285|特性互换|スキルスワップ|Skill Swap|超能力|变化|—|—|10}}
+{{Movelist/gen|286|封印|ふういん|Imprison|超能力|变化|—|—|10}}
+{{Movelist/gen|287|焕然一新|リフレッシュ|Refresh|一般|变化|—|—|20}}
+{{Movelist/gen|288|怨念|おんねん|Grudge|幽灵|变化|—|—|5}}
+{{Movelist/gen|289|抢夺|よこどり|Snatch|恶|变化|—|—|10}}
+{{Movelist/gen|290|秘密之力|ひみつのちから|Secret Power|一般|物理|70|100|20}}
+{{Movelist/gen|291|潜水|ダイビング|Dive|水|物理|80|100|10}}
+{{Movelist/gen|292|猛推|つっぱり|Arm Thrust|格斗|物理|15|100|20}}
+{{Movelist/gen|293|保护色|ほごしょく|Camouflage|一般|变化|—|—|20}}
+{{Movelist/gen|294|萤火|ほたるび|Tail Glow|虫|变化|—|—|20}}
+{{Movelist/gen|295|洁净光芒|ラスターパージ|Luster Purge|超能力|特殊|70|100|5}}
+{{Movelist/gen|296|薄霧球|ミストボール|Mist Ball|超能力|特殊|70|100|5}}
+{{Movelist/gen|297|羽毛舞|フェザーダンス|Feather Dance|飞行|变化|—|100|15}}
+{{Movelist/gen|298|摇晃舞|フラフラダンス|Teeter Dance|一般|变化|—|100|20}}
+{{Movelist/gen|299|火焰踢|ブレイズキック|Blaze Kick|火|物理|85|90|10}}
+{{Movelist/gen|300|玩泥巴|どろあそび|Mud Sport|地面|变化|—|—|15}}
+{{Movelist/gen|301|冰球|アイスボール|Ice Ball|冰|物理|30|90|20}}
+{{Movelist/gen|302|尖刺臂|ニードルアーム|Needle Arm|草|物理|60|100|15}}
+{{Movelist/gen|303|偷懒|なまける|Slack Off|一般|变化|—|—|10}}
+{{Movelist/gen|304|巨声|ハイパーボイス|Hyper Voice|一般|特殊|90|100|10}}
+{{Movelist/gen|305|剧毒牙|どくどくのキバ|Poison Fang|毒|物理|50|100|15}}
+{{Movelist/gen|306|撕裂爪|ブレイククロー|Crush Claw|一般|物理|75|95|10}}
+{{Movelist/gen|307|爆炸烈焰|ブラストバーン|Blast Burn|火|特殊|150|90|5}}
+{{Movelist/gen|308|加农水炮|ハイドロカノン|Hydro Cannon|水|特殊|150|90|5}}
+{{Movelist/gen|309|彗星拳|コメットパンチ|Meteor Mash|钢|物理|90|90|10}}
+{{Movelist/gen|310|惊吓|おどろかす|Astonish|幽灵|物理|30|100|15}}
+{{Movelist/gen|311|气象球|ウェザーボール|Weather Ball|一般|特殊|50|100|10}}
+{{Movelist/gen|312|芳香治疗|アロマセラピー|Aromatherapy|草|变化|—|—|5}}
+{{Movelist/gen|313|假哭|うそなき|Fake Tears|恶|变化|—|100|20}}
+{{Movelist/gen|314|空气利刃|エアカッター|Air Cutter|飞行|特殊|60|95|25}}
+{{Movelist/gen|315|过热|オーバーヒート|Overheat|火|特殊|130|90|5}}
+{{Movelist/gen|316|气味侦测|かぎわける|Odor Sleuth|一般|变化|—|—|40}}
+{{Movelist/gen|317|岩石封锁|がんせきふうじ|Rock Tomb|岩石|物理|60|95|15}}
+{{Movelist/gen|318|银色旋风|ぎんいろのかぜ|Silver Wind|虫|特殊|60|100|5}}
+{{Movelist/gen|319|金属音|きんぞくおん|Metal Sound|钢|变化|—|85|40}}
+{{Movelist/gen|320|草笛|くさぶえ|Grass Whistle|草|变化|—|55|15}}
+{{Movelist/gen|321|挠痒|くすぐる|Tickle|一般|变化|—|100|20}}
+{{Movelist/gen|322|宇宙力量|コスモパワー|Cosmic Power|超能力|变化|—|—|20}}
+{{Movelist/gen|323|喷水|しおふき|Water Spout|水|特殊|150|100|5}}
+{{Movelist/gen|324|信号光束|シグナルビーム|Signal Beam|虫|特殊|75|100|15}}
+{{Movelist/gen|325|暗影拳|シャドーパンチ|Shadow Punch|幽灵|物理|60|—|20}}
+{{Movelist/gen|326|神通力|じんつうりき|Extrasensory|超能力|特殊|80|100|20}}
+{{Movelist/gen|327|冲天拳|スカイアッパー|Sky Uppercut|格斗|物理|85|90|15}}
+{{Movelist/gen|328|流沙地狱|すなじごく|Sand Tomb|地面|物理|35|85|15}}
+{{Movelist/gen|329|绝对零度|ぜったいれいど|Sheer Cold|冰|特殊|变化|变化|5}}
+{{Movelist/gen|330|浊流|だくりゅう|Muddy Water|水|特殊|90|85|10}}
+{{Movelist/gen|331|种子机关枪|タネマシンガン|Bullet Seed|草|物理|25|100|30}}
+{{Movelist/gen|332|燕返|つばめがえし|Aerial Ace|飞行|物理|60|—|20}}
+{{Movelist/gen|333|冰锥|つららばり|Icicle Spear|冰|物理|25|100|30}}
+{{Movelist/gen|334|铁壁|てっぺき|Iron Defense|钢|变化|—|—|15}}
+{{Movelist/gen|335|挡路|とおせんぼう|Block|一般|变化|—|—|5}}
+{{Movelist/gen|336|长嚎|とおぼえ|Howl|一般|变化|—|—|40}}
+{{Movelist/gen|337|龙爪|ドラゴンクロー|Dragon Claw|龙|物理|80|100|15}}
+{{Movelist/gen|338|疯狂植物|ハードプラント|Frenzy Plant|草|特殊|150|90|5}}
+{{Movelist/gen|339|健美|ビルドアップ|Bulk Up|格斗|变化|—|—|20}}
+{{Movelist/gen|340|弹跳|とびはねる|Bounce|飞行|物理|85|85|5}}
+{{Movelist/gen|341|泥巴射击|マッドショット|Mud Shot|地面|特殊|55|95|15}}
+{{Movelist/gen|342|毒尾|ポイズンテール|Poison Tail|毒|物理|50|100|25}}
+{{Movelist/gen|343|渴望|ほしがる|Covet|一般|物理|60|100|25}}
+{{Movelist/gen|344|伏特攻击|ボルテッカー|Volt Tackle|电|物理|120|100|15}}
+{{Movelist/gen|345|魔法叶|マジカルリーフ|Magical Leaf|草|特殊|60|—|20}}
+{{Movelist/gen|346|玩水|みずあそび|Water Sport|水|变化|—|—|15}}
+{{Movelist/gen|347|冥想|めいそう|Calm Mind|超能力|变化|—|—|20}}
+{{Movelist/gen|348|叶刃|リーフブレード|Leaf Blade|草|物理|90|100|15}}
+{{Movelist/gen|349|龙之舞|りゅうのまい|Dragon Dance|龙|变化|—|—|20}}
+{{Movelist/gen|350|岩石爆击|ロックブラスト|Rock Blast|岩石|物理|25|90|10}}
+{{Movelist/gen|351|电击波|でんげきは|Shock Wave|电|特殊|60|—|20}}
+{{Movelist/gen|352|水之波动|みずのはどう|Water Pulse|水|特殊|60|100|20}}
+{{Movelist/gen|353|破灭之愿|はめつのねがい|Doom Desire|钢|特殊|140|100|5}}
+{{Movelist/gen|354|精神突进|サイコブースト|Psycho Boost|超能力|特殊|140|90|5}}
+
+==第四世代==
+{{Movelist/gen|355|羽栖|はねやすめ|Roost|飞行|变化|—|—|10}}
+{{Movelist/gen|356|重力|じゅうりょく|Gravity|超能力|变化|—|—|5}}
+{{Movelist/gen|357|奇迹之眼|ミラクルアイ|Miracle Eye|超能力|变化|—|—|40}}
+{{Movelist/gen|358|唤醒巴掌|めざましビンタ|Wake-Up Slap|格斗|物理|70|100|10}}
+{{Movelist/gen|359|臂錘|アームハンマー|Hammer Arm|格斗|物理|100|90|10}}
+{{Movelist/gen|360|陀螺球|ジャイロボール|Gyro Ball|钢|物理|变化|100|5}}
+{{Movelist/gen|361|治愈之愿|いやしのねがい|Healing Wish|超能力|变化|—|—|10}}
+{{Movelist/gen|362|盐水|しおみず|Brine|水|特殊|65|100|10}}
+{{Movelist/gen|363|自然之恩|しぜんのめぐみ|Natural Gift|一般|物理|变化|100|15}}
+{{Movelist/gen|364|佯攻|フェイント|Feint|一般|物理|50|100|10}}
+{{Movelist/gen|365|啄食|ついばむ|Pluck|飞行|物理|60|100|20}}
+{{Movelist/gen|366|顺风|おいかぜ|Tailwind|飞行|变化|—|—|30}}
+{{Movelist/gen|367|点穴|つぼをつく|Acupressure|一般|变化|—|—|30}}
+{{Movelist/gen|368|金属爆炸|メタルバースト|Metal Burst|钢|物理|变化|100|10}}
+{{Movelist/gen|369|急速折返|とんぼがえり|U-turn|虫|物理|70|100|20}}
+{{Movelist/gen|370|近身战|インファイト|Close Combat|格斗|物理|120|100|5}}
+{{Movelist/gen|371|以牙還牙|しっぺがえし|Payback|恶|物理|50|100|10}}
+{{Movelist/gen|372|恶意追击|ダメおし|Assurance|恶|物理|60|100|10}}
+{{Movelist/gen|373|查封|さしおさえ|Embargo|恶|变化|—|100|15}}
+{{Movelist/gen|374|投擲|なげつける|Fling|恶|物理|变化|100|10}}
+{{Movelist/gen|375|精神转移|サイコシフト|Psycho Shift|超能力|变化|—|100|10}}
+{{Movelist/gen|376|王牌|きりふだ|Trump Card|一般|特殊|变化|—|5}}
+{{Movelist/gen|377|回复封锁|かいふくふうじ|Heal Block|超能力|变化|—|100|15}}
+{{Movelist/gen|378|绞紧|しぼりとる|Wring Out|一般|特殊|变化|100|5}}
+{{Movelist/gen|379|力量戏法|パワートリック|Power Trick|超能力|变化|—|—|10}}
+{{Movelist/gen|380|胃液|いえき|Gastro Acid|毒|变化|—|100|10}}
+{{Movelist/gen|381|幸运咒语|おまじない|Lucky Chant|一般|变化|—|—|30}}
+{{Movelist/gen|382|抢先一步|さきどり|Me First|一般|变化|变化|—|20}}
+{{Movelist/gen|383|仿效|まねっこ|Copycat|一般|变化|—|—|20}}
+{{Movelist/gen|384|力量互换|パワースワップ|Power Swap|超能力|变化|—|—|10}}
+{{Movelist/gen|385|防守互换|ガードスワップ|Guard Swap|超能力|变化|—|—|10}}
+{{Movelist/gen|386|懲罰|おしおき|Punishment|恶|物理|变化|100|5}}
+{{Movelist/gen|387|珍藏|とっておき|Last Resort|一般|物理|140|100|5}}
+{{Movelist/gen|388|烦恼种子|なやみのタネ|Worry Seed|草|变化|—|100|10}}
+{{Movelist/gen|389|突袭|ふいうち|Sucker Punch|恶|物理|70|100|5}}
+{{Movelist/gen|390|毒菱|どくびし|Toxic Spikes|毒|变化|—|—|20}}
+{{Movelist/gen|391|心灵互换|ハートスワップ|Heart Swap|超能力|变化|—|—|10}}
+{{Movelist/gen|392|水流环|アクアリング|Aqua Ring|水|变化|—|—|20}}
+{{Movelist/gen|393|电磁飘浮|でんじふゆう|Magnet Rise|电|变化|—|—|10}}
+{{Movelist/gen|394|闪焰冲锋|フレアドライブ|Flare Blitz|火|物理|120|100|15}}
+{{Movelist/gen|395|发劲|はっけい|Force Palm|格斗|物理|60|100|10}}
+{{Movelist/gen|396|波导弹|はどうだん|Aura Sphere|格斗|特殊|80|—|20}}
+{{Movelist/gen|397|岩石打磨|ロックカット|Rock Polish|岩石|变化|—|—|20}}
+{{Movelist/gen|398|毒击|どくづき|Poison Jab|毒|物理|80|100|20}}
+{{Movelist/gen|399|恶之波动|あくのはどう|Dark Pulse|恶|特殊|80|100|15}}
+{{Movelist/gen|400|暗袭要害|つじぎり|Night Slash|恶|物理|70|100|15}}
+{{Movelist/gen|401|水流尾|アクアテール|Aqua Tail|水|物理|90|90|10}}
+{{Movelist/gen|402|种子炸弹|タネばくだん|Seed Bomb|草|物理|80|100|15}}
+{{Movelist/gen|403|空气斩|エアスラッシュ|Air Slash|飞行|特殊|75|95|15}}
+{{Movelist/gen|404|十字剪|シザークロス|X-Scissor|虫|物理|80|100|15}}
+{{Movelist/gen|405|虫鸣|むしのさざめき|Bug Buzz|虫|特殊|90|100|10}}
+{{Movelist/gen|406|龙之波动|りゅうのはどう|Dragon Pulse|龙|特殊|85|100|10}}
+{{Movelist/gen|407|龙之俯冲|ドラゴンダイブ|Dragon Rush|龙|物理|100|75|10}}
+{{Movelist/gen|408|力量宝石|パワージェム|Power Gem|岩石|特殊|80|100|20}}
+{{Movelist/gen|409|吸取拳|ドレインパンチ|Drain Punch|格斗|物理|75|100|10}}
+{{Movelist/gen|410|真空波|しんくうは|Vacuum Wave|格斗|特殊|40|100|30}}
+{{Movelist/gen|411|真气弹|きあいだま|Focus Blast|格斗|特殊|120|70|5}}
+{{Movelist/gen|412|能量球|エナジーボール|Energy Ball|草|特殊|90|100|10}}
+{{Movelist/gen|413|勇鸟猛攻|ブレイブバード|Brave Bird|飞行|物理|120|100|15}}
+{{Movelist/gen|414|大地之力|だいちのちから|Earth Power|地面|特殊|90|100|10}}
+{{Movelist/gen|415|掉包|すりかえ|Switcheroo|恶|变化|—|100|10}}
+{{Movelist/gen|416|终极冲击|ギガインパクト|Giga Impact|一般|物理|150|90|5}}
+{{Movelist/gen|417|诡计|わるだくみ|Nasty Plot|恶|变化|—|—|20}}
+{{Movelist/gen|418|子弹拳|バレットパンチ|Bullet Punch|钢|物理|40|100|30}}
+{{Movelist/gen|419|雪崩|ゆきなだれ|Avalanche|冰|物理|60|100|10}}
+{{Movelist/gen|420|冰砾|こおりのつぶて|Ice Shard|冰|物理|40|100|30}}
+{{Movelist/gen|421|暗影爪|シャドークロー|Shadow Claw|幽灵|物理|70|100|15}}
+{{Movelist/gen|422|雷电牙|かみなりのキバ|Thunder Fang|电|物理|65|95|15}}
+{{Movelist/gen|423|冰冻牙|こおりのキバ|Ice Fang|冰|物理|65|95|15}}
+{{Movelist/gen|424|火焰牙|ほのおのキバ|Fire Fang|火|物理|65|95|15}}
+{{Movelist/gen|425|影子偷袭|かげうち|Shadow Sneak|幽灵|物理|40|100|30}}
+{{Movelist/gen|426|泥巴炸弹|どろばくだん|Mud Bomb|地面|特殊|65|85|10}}
+{{Movelist/gen|427|精神利刃|サイコカッター|Psycho Cut|超能力|物理|70|100|20}}
+{{Movelist/gen|428|意念头锤|しねんのずつき|Zen Headbutt|超能力|物理|80|90|15}}
+{{Movelist/gen|429|镜光射击|ミラーショット|Mirror Shot|钢|特殊|65|85|10}}
+{{Movelist/gen|430|加农光炮|ラスターカノン|Flash Cannon|钢|特殊|80|100|10}}
+{{Movelist/gen|431|攀岩|ロッククライム|Rock Climb|一般|物理|90|85|20}}
+{{Movelist/gen|432|清除浓雾|きりばらい|Defog|飞行|变化|—|—|15}}
+{{Movelist/gen|433|戏法空间|トリックルーム|Trick Room|超能力|变化|—|—|5}}
+{{Movelist/gen|434|流星群|りゅうせいぐん|Draco Meteor|龙|特殊|130|90|5}}
+{{Movelist/gen|435|放电|ほうでん|Discharge|电|特殊|80|100|15}}
+{{Movelist/gen|436|喷烟|ふんえん|Lava Plume|火|特殊|80|100|15}}
+{{Movelist/gen|437|飞叶风暴|リーフストーム|Leaf Storm|草|特殊|130|90|5}}
+{{Movelist/gen|438|强力鞭打|パワーウィップ|Power Whip|草|物理|120|85|10}}
+{{Movelist/gen|439|岩石炮|がんせきほう|Rock Wrecker|岩石|物理|150|90|5}}
+{{Movelist/gen|440|十字毒刃|クロスポイズン|Cross Poison|毒|物理|70|100|20}}
+{{Movelist/gen|441|垃圾射击|ダストシュート|Gunk Shot|毒|物理|120|80|5}}
+{{Movelist/gen|442|铁头|アイアンヘッド|Iron Head|钢|物理|80|100|15}}
+{{Movelist/gen|443|磁铁炸弹|マグネットボム|Magnet Bomb|钢|物理|60|—|20}}
+{{Movelist/gen|444|尖石攻击|ストーンエッジ|Stone Edge|岩石|物理|100|80|5}}
+{{Movelist/gen|445|诱惑|ゆうわく|Captivate|一般|变化|—|100|20}}
+{{Movelist/gen|446|隐形岩|ステルスロック|Stealth Rock|岩石|变化|—|—|20}}
+{{Movelist/gen|447|打草结|くさむすび|Grass Knot|草|特殊|变化|100|20}}
+{{Movelist/gen|448|喋喋不休|おしゃべり|Chatter|飞行|特殊|65|100|20}}
+{{Movelist/gen|449|制裁光砾|さばきのつぶて|Judgment|一般|特殊|100|100|10}}
+{{Movelist/gen|450|虫咬|むしくい|Bug Bite|虫|物理|60|100|20}}
+{{Movelist/gen|451|充电光束|チャージビーム|Charge Beam|电|特殊|50|90|10}}
+{{Movelist/gen|452|木槌|ウッドハンマー|Wood Hammer|草|物理|120|100|15}}
+{{Movelist/gen|453|水流喷射|アクアジェット|Aqua Jet|水|物理|40|100|20}}
+{{Movelist/gen|454|攻击指令|こうげきしれい|Attack Order|虫|物理|90|100|15}}
+{{Movelist/gen|455|防御指令|ぼうぎょしれい|Defend Order|虫|变化|—|—|10}}
+{{Movelist/gen|456|回复指令|かいふくしれい|Heal Order|虫|变化|—|—|10}}
+{{Movelist/gen|457|双刃头锤|もろはのずつき|Head Smash|岩石|物理|150|80|5}}
+{{Movelist/gen|458|二连击|ダブルアタック|Double Hit|一般|物理|35|90|10}}
+{{Movelist/gen|459|时光咆哮|ときのほうこう|Roar of Time|龙|特殊|150|90|5}}
+{{Movelist/gen|460|亚空裂斩|あくうせつだん|Spacial Rend|龙|特殊|100|95|5}}
+{{Movelist/gen|461|新月舞|みかづきのまい|Lunar Dance|超能力|变化|—|—|10}}
+{{Movelist/gen|462|捏碎|にぎりつぶす|Crush Grip|一般|物理|变化|100|5}}
+{{Movelist/gen|463|熔岩风暴|マグマストーム|Magma Storm|火|特殊|100|75|5}}
+{{Movelist/gen|464|暗黑洞|ダークホール|Dark Void|恶|变化|—|50|10}}
+{{Movelist/gen|465|种子闪光|シードフレア|Seed Flare|草|特殊|120|85|5}}
+{{Movelist/gen|466|奇异之风|あやしいかぜ|Ominous Wind|幽灵|特殊|60|100|5}}
+{{Movelist/gen|467|暗影潜袭|シャドーダイブ|Shadow Force|幽灵|物理|120|100|5}}
+
+==第五世代==
+{{Movelist/gen|468|磨爪|つめとぎ|Hone Claws|恶|变化|—|—|15}}
+{{Movelist/gen|469|广域防守|ワイドガード|Wide Guard|岩石|变化|—|—|10}}
+{{Movelist/gen|470|防守平分|ガードシェア|Guard Split|超能力|变化|—|—|10}}
+{{Movelist/gen|471|力量平分|パワーシェア|Power Split|超能力|变化|—|—|10}}
+{{Movelist/gen|472|奇妙空间|ワンダールーム|Wonder Room|超能力|变化|—|—|10}}
+{{Movelist/gen|473|精神衝擊|サイコショック|Psyshock|超能力|特殊|80|100|10}}
+{{Movelist/gen|474|毒液衝擊|ベノムショック|Venoshock|毒|特殊|65|100|10}}
+{{Movelist/gen|475|身体轻量化|ボディパージ|Autotomize|钢|变化|—|—|15}}
+{{Movelist/gen|476|憤怒粉|いかりのこな|Rage Powder|虫|变化|—|—|20}}
+{{Movelist/gen|477|意念移物|テレキネシス|Telekinesis|超能力|变化|—|—|15}}
+{{Movelist/gen|478|魔法空间|マジックルーム|Magic Room|超能力|变化|—|—|10}}
+{{Movelist/gen|479|击落|うちおとす|Smack Down|岩石|物理|50|100|15}}
+{{Movelist/gen|480|山岚摔|やまあらし|Storm Throw|格斗|物理|60|100|10}}
+{{Movelist/gen|481|烈焰溅射|はじけるほのお|Flame Burst|火|特殊|70|100|15}}
+{{Movelist/gen|482|污泥波|ヘドロウェーブ|Sludge Wave|毒|特殊|95|100|10}}
+{{Movelist/gen|483|蝶舞|ちょうのまい|Quiver Dance|虫|变化|—|—|20}}
+{{Movelist/gen|484|重磅冲撞|ヘビーボンバー|Heavy Slam|钢|物理|变化|100|10}}
+{{Movelist/gen|485|同步干擾|シンクロノイズ|Synchronoise|超能力|特殊|120|100|10}}
+{{Movelist/gen|486|电球|エレキボール|Electro Ball|电|特殊|变化|100|10}}
+{{Movelist/gen|487|浸水|みずびたし|Soak|水|变化|—|100|20}}
+{{Movelist/gen|488|蓄能焰襲|ニトロチャージ|Flame Charge|火|物理|50|100|20}}
+{{Movelist/gen|489|盤蜷|とぐろをまく|Coil|毒|变化|—|—|20}}
+{{Movelist/gen|490|下盘踢|ローキック|Low Sweep|格斗|物理|65|100|20}}
+{{Movelist/gen|491|酸液炸弹|アシッドボム|Acid Spray|毒|特殊|40|100|20}}
+{{Movelist/gen|492|欺诈|イカサマ|Foul Play|恶|物理|95|100|15}}
+{{Movelist/gen|493|单纯光束|シンプルビーム|Simple Beam|一般|变化|—|100|15}}
+{{Movelist/gen|494|找伙伴|なかまづくり|Entrainment|一般|变化|—|100|15}}
+{{Movelist/gen|495|您先請|おさきにどうぞ|After You|一般|变化|—|—|15}}
+{{Movelist/gen|496|轮唱|りんしょう|Round|一般|特殊|60|100|15}}
+{{Movelist/gen|497|迴声|エコーボイス|Echoed Voice|一般|特殊|40|100|15}}
+{{Movelist/gen|498|逐步击破|なしくずし|Chip Away|一般|物理|70|100|20}}
+{{Movelist/gen|499|清除之煙|クリアスモッグ|Clear Smog|毒|特殊|50|—|15}}
+{{Movelist/gen|500|辅助力量|アシストパワー|Stored Power|超能力|特殊|20|100|10}}
+{{Movelist/gen|501|快速防守|ファストガード|Quick Guard|格斗|变化|—|—|15}}
+{{Movelist/gen|502|交换场地|サイドチェンジ|Ally Switch|超能力|变化|—|—|15}}
+{{Movelist/gen|503|热水|ねっとう|Scald|水|特殊|80|100|15}}
+{{Movelist/gen|504|破壳|からをやぶる|Shell Smash|一般|变化|—|—|15}}
+{{Movelist/gen|505|治愈波动|いやしのはどう|Heal Pulse|超能力|变化|—|—|10}}
+{{Movelist/gen|506|祸不单行|たたりめ|Hex|幽灵|特殊|65|100|10}}
+{{Movelist/gen|507|自由落体|フリーフォール|Sky Drop|飞行|物理|60|100|10}}
+{{Movelist/gen|508|换挡|ギアチェンジ|Shift Gear|钢|变化|—|—|10}}
+{{Movelist/gen|509|巴投|ともえなげ|Circle Throw|格斗|物理|60|90|10}}
+{{Movelist/gen|510|烧尽|やきつくす|Incinerate|火|特殊|60|100|15}}
+{{Movelist/gen|511|延後|さきおくり|Quash|恶|变化|—|100|15}}
+{{Movelist/gen|512|杂技|アクロバット|Acrobatics|飞行|物理|55|100|15}}
+{{Movelist/gen|513|镜面属性|ミラータイプ|Reflect Type|一般|变化|—|—|15}}
+{{Movelist/gen|514|報仇|かたきうち|Retaliate|一般|物理|70|100|5}}
+{{Movelist/gen|515|搏命|いのちがけ|Final Gambit|格斗|特殊|变化|100|5}}
+{{Movelist/gen|516|传递礼物|ギフトパス|Bestow|一般|变化|—|—|15}}
+{{Movelist/gen|517|炼狱|れんごく|Inferno|火|特殊|100|50|5}}
+{{Movelist/gen|518|水之誓约|みずのちかい|Water Pledge|水|特殊|80|100|10}}
+{{Movelist/gen|519|火之誓約|ほのおのちかい|Fire Pledge|火|特殊|80|100|10}}
+{{Movelist/gen|520|草之誓约|くさのちかい|Grass Pledge|草|特殊|80|100|10}}
+{{Movelist/gen|521|伏特替换|ボルトチェンジ|Volt Switch|电|特殊|70|100|20}}
+{{Movelist/gen|522|虫之抵抗|むしのていこう|Struggle Bug|虫|特殊|50|100|20}}
+{{Movelist/gen|523|重踏|じならし|Bulldoze|地面|物理|60|100|20}}
+{{Movelist/gen|524|冰息|こおりのいぶき|Frost Breath|冰|特殊|60|90|10}}
+{{Movelist/gen|525|龙尾|ドラゴンテール|Dragon Tail|龙|物理|60|90|10}}
+{{Movelist/gen|526|自我激励|ふるいたてる|Work Up|一般|变化|—|—|30}}
+{{Movelist/gen|527|电网|エレキネット|Electroweb|电|特殊|55|95|15}}
+{{Movelist/gen|528|瘋狂伏特|ワイルドボルト|Wild Charge|电|物理|90|100|15}}
+{{Movelist/gen|529|直冲钻|ドリルライナー|Drill Run|地面|物理|80|95|10}}
+{{Movelist/gen|530|二连劈|ダブルチョップ|Dual Chop|龙|物理|40|90|15}}
+{{Movelist/gen|531|愛心印章|ハートスタンプ|Heart Stamp|超能力|物理|60|100|25}}
+{{Movelist/gen|532|木角|ウッドホーン|Horn Leech|草|物理|75|100|10}}
+{{Movelist/gen|533|圣剑|せいなるつるぎ|Sacred Sword|格斗|物理|90|100|20}}
+{{Movelist/gen|534|贝壳刃|シェルブレード|Razor Shell|水|物理|75|95|10}}
+{{Movelist/gen|535|高溫重压|ヒートスタンプ|Heat Crash|火|物理|变化|100|10}}
+{{Movelist/gen|536|青草搅拌器|グラスミキサー|Leaf Tornado|草|特殊|65|90|10}}
+{{Movelist/gen|537|疯狂滚压|ハードローラー|Steamroller|虫|物理|65|100|20}}
+{{Movelist/gen|538|棉花防守|コットンガード|Cotton Guard|草|变化|—|—|10}}
+{{Movelist/gen|539|暗黑爆破|ナイトバースト|Night Daze|恶|特殊|85|95|10}}
+{{Movelist/gen|540|精神击破|サイコブレイク|Psystrike|超能力|特殊|100|100|10}}
+{{Movelist/gen|541|扫尾拍打|スイープビンタ|Tail Slap|一般|物理|25|85|10}}
+{{Movelist/gen|542|暴风|ぼうふう|Hurricane|飞行|特殊|110|70|10}}
+{{Movelist/gen|543|爆炸头突击|アフロブレイク|Head Charge|一般|物理|120|100|15}}
+{{Movelist/gen|544|齿轮飞盘|ギアソーサー|Gear Grind|钢|物理|50|85|15}}
+{{Movelist/gen|545|火焰弹|かえんだん|Searing Shot|火|特殊|100|100|5}}
+{{Movelist/gen|546|高科技光炮|テクノバスター|Techno Blast|一般|特殊|120|100|5}}
+{{Movelist/gen|547|古老之歌|いにしえのうた|Relic Song|一般|特殊|75|100|10}}
+{{Movelist/gen|548|神秘之剑|しんぴのつるぎ|Secret Sword|格斗|特殊|85|100|10}}
+{{Movelist/gen|549|冰封世界|こごえるせかい|Glaciate|冰|特殊|65|95|10}}
+{{Movelist/gen|550|雷击|らいげき|Bolt Strike|电|物理|130|85|5}}
+{{Movelist/gen|551|青焰|あおいほのお|Blue Flare|火|特殊|130|85|5}}
+{{Movelist/gen|552|火之舞|ほのおのまい|Fiery Dance|火|特殊|80|100|10}}
+{{Movelist/gen|553|冰冻伏特|フリーズボルト|Freeze Shock|冰|物理|140|90|5}}
+{{Movelist/gen|554|极寒冷焰|コールドフレア|Ice Burn|冰|特殊|140|90|5}}
+{{Movelist/gen|555|大声咆哮|バークアウト|Snarl|恶|特殊|55|95|15}}
+{{Movelist/gen|556|冰柱坠击|つららおとし|Icicle Crash|冰|物理|85|90|10}}
+{{Movelist/gen|557|Ｖ熱焰|Ｖジェネレート|V-create|火|物理|180|95|5}}
+{{Movelist/gen|558|交错火焰|クロスフレイム|Fusion Flare|火|特殊|100|100|5}}
+{{Movelist/gen|559|交错闪电|クロスサンダー|Fusion Bolt|电|物理|100|100|5}}
+
+==第六世代==
+{{Movelist/gen|560|飞身重压|フライングプレス|Flying Press|格斗|物理|100|95|10}}
+{{Movelist/gen|561|掀榻榻米|たたみがえし|Mat Block|格斗|变化|—|—|15}}
+{{Movelist/gen|562|打嗝|ゲップ|Belch|毒|特殊|120|90|10}}
+{{Movelist/gen|563|耕地|たがやす|Rototiller|地面|变化|—|—|10}}
+{{Movelist/gen|564|黏黏网|ねばねばネット|Sticky Web|虫|变化|—|—|20}}
+{{Movelist/gen|565|致命针刺|とどめばり|Fell Stinger|虫|物理|50|100|25}}
+{{Movelist/gen|566|潜灵奇袭|ゴーストダイブ|Phantom Force|幽灵|物理|90|100|10}}
+{{Movelist/gen|567|万圣夜|ハロウィン|Trick-or-Treat|幽灵|变化|—|100|20}}
+{{Movelist/gen|568|战吼|おたけび|Noble Roar|一般|变化|—|100|30}}
+{{Movelist/gen|569|等离子浴|プラズマシャワー|Ion Deluge|电|变化|—|—|25}}
+{{Movelist/gen|570|抛物面充电|パラボラチャージ|Parabolic Charge|电|特殊|65|100|20}}
+{{Movelist/gen|571|森林诅咒|もりののろい|Forest's Curse|草|变化|—|100|20}}
+{{Movelist/gen|572|落英缤纷|はなふぶき|Petal Blizzard|草|物理|90|100|15}}
+{{Movelist/gen|573|冷冻干燥|フリーズドライ|Freeze-Dry|冰|特殊|70|100|20}}
+{{Movelist/gen|574|魅惑之声|チャームボイス|Disarming Voice|妖精|特殊|40|—|15}}
+{{Movelist/gen|575|抛下狠话|すてゼリフ|Parting Shot|恶|变化|—|100|20}}
+{{Movelist/gen|576|颠倒|ひっくりかえす|Topsy-Turvy|惡|变化|—|—|20}}
+{{Movelist/gen|577|吸取之吻|ドレインキッス|Draining Kiss|妖精|特殊|50|100|20}}
+{{Movelist/gen|578|戏法防守|トリックガード|Crafty Shield|妖精|变化|—|—|10}}
+{{Movelist/gen|579|鲜花防守|フラワーガード|Flower Shield|妖精|变化|—|—|10}}
+{{Movelist/gen|580|青草场地|グラスフィールド|Grassy Terrain|草|变化|—|—|10}}
+{{Movelist/gen|581|薄雾场地|ミストフィールド|Misty Terrain|妖精|变化|—|—|10}}
+{{Movelist/gen|582|输电|そうでん|Electrify|電|变化|—|—|20}}
+{{Movelist/gen|583|嬉闹|じゃれつく|Play Rough|妖精|物理|90|90|15}}
+{{Movelist/gen|584|妖精之风|ようせいのかぜ|Fairy Wind|妖精|特殊|40|100|30}}
+{{Movelist/gen|585|月亮之力|ムーンフォース|Moonblast|妖精|特殊|95|100|15}}
+{{Movelist/gen|586|爆音波|ばくおんぱ|Boomburst|一般|特殊|140|100|10}}
+{{Movelist/gen|587|妖精之锁|フェアリーロック|Fairy Lock|妖精|变化|—|—|10}}
+{{Movelist/gen|588|王者盾牌|キングシールド|King's Shield|钢|变化|—|—|10}}
+{{Movelist/gen|589|和睦相处|なかよくする|Play Nice|一般|变化|—|—|20}}
+{{Movelist/gen|590|密语|ないしょばなし|Confide|一般|变化|—|—|20}}
+{{Movelist/gen|591|钻石风暴|ダイヤストーム|Diamond Storm|岩石|物理|100|95|5}}
+{{Movelist/gen|592|蒸汽爆炸|スチームバースト|Steam Eruption|水|特殊|110|95|5}}
+{{Movelist/gen|593|异次元洞|いじげんホール|Hyperspace Hole|超能力|特殊|80|—|5}}
+{{Movelist/gen|594|飞水手里剑|みずしゅりけん|Water Shuriken|水|特殊|15|100|20}}
+{{Movelist/gen|595|魔法火焰|マジカルフレイム|Mystical Fire|火|特殊|75|100|10}}
+{{Movelist/gen|596|尖刺防守|ニードルガード|Spiky Shield|草|变化|—|—|10}}
+{{Movelist/gen|597|芳香薄雾|アロマミスト|Aromatic Mist|妖精|变化|—|100|20}}
+{{Movelist/gen|598|怪异电波|かいでんぱ|Eerie Impulse|電|变化|—|100|15}}
+{{Movelist/gen|599|毒液陷阱|ベノムトラップ|Venom Drench|毒|变化|—|100|20}}
+{{Movelist/gen|600|粉尘|ふんじん|Powder|虫|变化|—|100|20}}
+{{Movelist/gen|601|大地掌控|ジオコントロール|Geomancy|妖精|变化|—|—|10}}
+{{Movelist/gen|602|磁场操控|じばそうさ|Magnetic Flux|电|变化|—|—|20}}
+{{Movelist/gen|603|欢乐时光|ハッピータイム|Happy Hour|一般|变化|—|—|30}}
+{{Movelist/gen|604|电气场地|エレキフィールド|Electric Terrain|电|变化|—|—|10}}
+{{Movelist/gen|605|魔法闪耀|マジカルシャイン|Dazzling Gleam|妖精|特殊|80|100|10}}
+{{Movelist/gen|606|庆祝|おいわい|Celebrate|一般|变化|—|—|40}}
+{{Movelist/gen|607|牵手|てをつなぐ|Hold Hands|一般|變化|—|—|40}}
+{{Movelist/gen|608|圆瞳|つぶらなひとみ|Baby-Doll Eyes|妖精|变化|—|100|30}}
+{{Movelist/gen|609|蹭蹭臉頰|ほっぺすりすり|Nuzzle|电|物理|20|100|20}}
+{{Movelist/gen|610|手下留情|てかげん|Hold Back|一般|class="bg-物理 ts-物理"|物理|40|100|40}}
+{{Movelist/gen|611|死缠烂打|まとわりつく|Infestation|虫|特殊|20|100|20}}
+{{Movelist/gen|612|增强拳|グロウパンチ|Power-Up Punch|格鬥|物理|40|100|30}}
+{{Movelist/gen|613|死亡之翼|デスウイング|Oblivion Wing|飛行|特殊|80|100|10}}
+{{Movelist/gen|614|千箭齊發|サウザンアロー|Thousand Arrows|地面|物理|90|100|10}}
+{{Movelist/gen|615|千波激盪|サウザンウェーブ|Thousand Waves|地面|物理|90|100|10}}
+{{Movelist/gen|616|大地神力|グランドフォース|Land's Wrath|地面|物理|90|100|10}}
+{{Movelist/gen|617|破灭之光|はめつのひかり|Light of Ruin|妖精|特殊|140|90|5}}
+{{Movelist/gen|618|根源波动|こんげんのはどう|Origin Pulse|水|特殊|110|85|10}}
+{{Movelist/gen|619|断崖之剑|だんがいのつるぎ|Precipice Blades|地面|物理|120|85|10}}
+{{Movelist/gen|620|画龙点睛|ガリョウテンセイ|Dragon Ascent|飞行|物理|120|100|5}}
+{{Movelist/gen|621|异次元猛攻|いじげんラッシュ|Hyperspace Fury|惡|物理|100|—|5}}
+
+==第七世代==
+{{Movelist/gen|622|究极无敌大冲撞|ウルトラダッシュアタック|Breakneck Blitz|一般|物理|—|—|1|Z=一般Ｚ}}
+{{Movelist/gen|623|究极无敌大冲撞|ウルトラダッシュアタック|Breakneck Blitz|一般|特殊|—|—|1|Z=一般Ｚ}}
+{{Movelist/gen|624|全力无双激烈拳|ぜんりょくむそうげきれつけん|All-Out Pummeling|格鬥|物理|—|—|1|Z=格斗Ｚ}}
+{{Movelist/gen|625|全力无双激烈拳|ぜんりょくむそうげきれつけん|All-Out Pummeling|格鬥|特殊|—|—|1|Z=格斗Ｚ}}
+{{Movelist/gen|626|极速俯冲轰烈撞|ファイナルダイブクラッシュ|Supersonic Skystrike|飞行|物理|—|—|1|Z=飞行Ｚ}}
+{{Movelist/gen|627|极速俯冲轰烈撞|ファイナルダイブクラッシュ|Supersonic Skystrike|飞行|特殊|—|—|1|Z=飞行Ｚ}}
+{{Movelist/gen|628|强酸剧毒灭绝雨|アシッドポイズンデリート|Acid Downpour|毒|物理|—|—|1|Z=毒Ｚ}}
+{{Movelist/gen|629|强酸剧毒灭绝雨|アシッドポイズンデリート|Acid Downpour|毒|特殊|—|—|1|Z=毒Ｚ}}
+{{Movelist/gen|630|地隆啸天大终结|ライジングランドオーバー|Tectonic Rage|地面|物理|—|—|1|Z=地面Ｚ}}
+{{Movelist/gen|631|地隆啸天大终结|ライジングランドオーバー|Tectonic Rage|地面|特殊|—|—|1|Z=地面Ｚ}}
+{{Movelist/gen|632|毁天灭地巨岩坠|ワールズエンドフォール|Continental Crush|岩石|物理|—|—|1|Z=岩石Ｚ}}
+{{Movelist/gen|633|毁天灭地巨岩坠|ワールズエンドフォール|Continental Crush|岩石|特殊|—|—|1|Z=岩石Ｚ}}
+{{Movelist/gen|634|绝对捕食回旋斩|ぜったいほしょくかいてんざん|Savage Spin-Out|虫|物理|—|—|1|Z=虫Ｚ}}
+{{Movelist/gen|635|绝对捕食回旋斩|ぜったいほしょくかいてんざん|Savage Spin-Out|虫|特殊|—|—|1|Z=虫Ｚ}}
+{{Movelist/gen|636|无尽暗夜之诱惑|むげんあんやへのいざない|Never-Ending Nightmare|幽灵|物理|—|—|1|Z=幽灵Ｚ}}
+{{Movelist/gen|637|无尽暗夜之诱惑|むげんあんやへのいざない|Never-Ending Nightmare|幽灵|特殊|—|—|1|Z=幽灵Ｚ}}
+{{Movelist/gen|638|超绝螺旋连击|ちょうぜつらせんれんげき|Corkscrew Crash|钢|物理|—|—|1|Z=钢Ｚ}}
+{{Movelist/gen|639|超绝螺旋连击|ちょうぜつらせんれんげき|Corkscrew Crash|钢|特殊|—|—|1|Z=钢Ｚ}}
+{{Movelist/gen|640|超强极限爆焰弹|ダイナミックフルフレイム|Inferno Overdrive|火|物理|—|—|1|Z=火Ｚ}}
+{{Movelist/gen|641|超强极限爆焰弹|ダイナミックフルフレイム|Inferno Overdrive|火|特殊|—|—|1|Z=火Ｚ}}
+{{Movelist/gen|642|超级水流大漩涡|スーパーアクアトルネード|Hydro Vortex|水|物理|—|—|1|Z=水Ｚ}}
+{{Movelist/gen|643|超级水流大漩涡|スーパーアクアトルネード|Hydro Vortex|水|特殊|—|—|1|Z=水Ｚ}}
+{{Movelist/gen|644|绚烂缤纷花怒放|ブルームシャインエクストラ|Bloom Doom|草|物理|—|—|1|Z=草Ｚ}}
+{{Movelist/gen|645|绚烂缤纷花怒放|ブルームシャインエクストラ|Bloom Doom|草|特殊|—|—|1|Z=草Ｚ}}
+{{Movelist/gen|646|终极伏特狂雷闪|スパーキングギガボルト|Gigavolt Havoc|电|物理|—|—|1|Z=电Ｚ}}
+{{Movelist/gen|647|终极伏特狂雷闪|スパーキングギガボルト|Gigavolt Havoc|电|特殊|—|—|1|Z=电Ｚ}}
+{{Movelist/gen|648|至高精神破坏波|マキシマムサイブレイカー|Shattered Psyche|超能力|物理|—|—|1|Z=超能力Ｚ}}
+{{Movelist/gen|649|至高精神破坏波|マキシマムサイブレイカー|Shattered Psyche|超能力|特殊|—|—|1|Z=超能力Ｚ}}
+{{Movelist/gen|650|激狂大地万里冰|レイジングジオフリーズ|Subzero Slammer|冰|物理|—|—|1|Z=冰Ｚ}}
+{{Movelist/gen|651|激狂大地万里冰|レイジングジオフリーズ|Subzero Slammer|冰|特殊|—|—|1|Z=冰Ｚ}}
+{{Movelist/gen|652|究极巨龙震天地|アルティメットドラゴンバーン|Devastating Drake|龙|物理|—|—|1|Z=龙Ｚ}}
+{{Movelist/gen|653|究极巨龙震天地|アルティメットドラゴンバーン|Devastating Drake|龙|特殊|—|—|1|Z=龙Ｚ}}
+{{Movelist/gen|654|黑洞吞噬万物灭|ブラックホールイクリプス|Black Hole Eclipse|惡|物理|—|—|1|Z=恶Ｚ}}
+{{Movelist/gen|655|黑洞吞噬万物灭|ブラックホールイクリプス|Black Hole Eclipse|惡|特殊|—|—|1|Z=恶Ｚ}}
+{{Movelist/gen|656|可愛星星飛天撞|ラブリースターインパクト|Twinkle Tackle|妖精|物理|—|—|1|Z=妖精Ｚ}}
+{{Movelist/gen|657|可愛星星飛天撞|ラブリースターインパクト|Twinkle Tackle|妖精|特殊|—|—|1|Z=妖精Ｚ}}
+{{Movelist/gen|658|皮卡皮卡必杀击|ひっさつのピカチュート|Castatropika|电|物理|210|—|1|Z=皮卡丘Ｚ}}
+{{Movelist/gen|659|集沙|すなあつめ|Shore Up|地面|变化|—|—|10}}
+{{Movelist/gen|660|迎头一击|であいがしら|First Impression|虫|物理|90|100|10}}
+{{Movelist/gen|661|碉堡|トーチカ|Baneful Bunker|毒|变化|—|—|10}}
+{{Movelist/gen|662|缝影|かげぬい|Spirit Shackle|幽灵|物理|80|100|10}}
+{{Movelist/gen|663|ＤＤ金勾臂|ＤＤラリアット|Darkest Lariat|惡|物理|85|100|10}}
+{{Movelist/gen|664|泡影的咏叹调|うたかたのアリア|Sparkling Aria|水|特殊|90|100|10}}
+{{Movelist/gen|665|冰锤|アイスハンマー|Ice Hammer|冰|物理|100|90|10}}
+{{Movelist/gen|666|花疗|フラワーヒール|Floral Healing|妖精|变化|—|—|10}}
+{{Movelist/gen|667|十万马力|１０まんばりき|High Horsepower|地面|物理|95|95|10}}
+{{Movelist/gen|668|吸取力量|ちからをすいとる|Strength Sap|草|变化|—|100|10}}
+{{Movelist/gen|669|日光刃|ソーラーブレード|Solar Blade|草|物理|125|100|10}}
+{{Movelist/gen|670|树叶|このは|Leafage|草|物理|40|100|40}}
+{{Movelist/gen|671|聚光灯|スポットライト|Spotlight|一般|变化|—|—|15}}
+{{Movelist/gen|672|毒丝|どくのいと|Toxic Thread|毒|变化|—|100|20}}
+{{Movelist/gen|673|磨砺|とぎすます|Laser Focus|一般|变化|—|—|30}}
+{{Movelist/gen|674|辅助齿轮|アシストギア|Gear Up|钢|变化|—|—|20}}
+{{Movelist/gen|675|地狱突刺|じごくづき|Throat Chop|恶|物理|80|100|15}}
+{{Movelist/gen|676|花粉团|かふんだんご|Pollen Puff|虫|特殊|90|100|15}}
+{{Movelist/gen|677|掷锚|アンカーショット|Anchor Shot|钢|物理|80|100|20}}
+{{Movelist/gen|678|精神场地|サイコフィールド|Psychic Terrain|超能力|变化|—|—|10}}
+{{Movelist/gen|679|猛扑|とびかかる|Lunge|虫|物理|80|100|15}}
+{{Movelist/gen|680|火焰鞭|ほのおのムチ|Fire Lash|火|物理|80|100|15}}
+{{Movelist/gen|681|嚣张|つけあがる|Power Trip|恶|物理|20|100|10}}
+{{Movelist/gen|682|燃尽|もえつきる|Burn Up|火|特殊|130|100|5}}
+{{Movelist/gen|683|速度互换|スピードスワップ|Speed Swap|超能力|变化|—|—|10}}
+{{Movelist/gen|684|修长之角|スマートホーン|Smart Strike|钢|物理|70|—|10}}
+{{Movelist/gen|685|净化|じょうか|Purify|毒|变化|—|—|20}}
+{{Movelist/gen|686|觉醒之舞|めざめるダンス|Revelation Dance|一般|特殊|90|100|15}}
+{{Movelist/gen|687|核心惩罚者|コアパニッシャー|Core Enforcer|龙|特殊|100|100|10}}
+{{Movelist/gen|688|热带踢|トロピカルキック|Trop Kick|草|物理|70|100|15}}
+{{Movelist/gen|689|号令|さいはい|Instruct|超能力|变化|—|—|15}}
+{{Movelist/gen|690|鸟嘴加农炮|くちばしキャノン|Beak Blast|飞行|物理|100|100|15}}
+{{Movelist/gen|691|鳞片噪音|スケイルノイズ|Clanging Scales|龙|特殊|110|100|5}}
+{{Movelist/gen|692|龙锤|ドラゴンハンマー|Dragon Hammer|龙|物理|90|100|15}}
+{{Movelist/gen|693|狂舞挥打|ぶんまわす|Brutal Swing|恶|物理|60|100|20}}
+{{Movelist/gen|694|极光幕|オーロラベール|Aurora Veil|冰|变化|—|—|20}}
+{{Movelist/gen|695|遮天蔽日暗影箭|シャドーアローズストライク|Sinister Arrow Raid|幽灵|物理|180|—|1|Z=狙射树枭Ｚ}}
+{{Movelist/gen|696|极恶飞躍粉碎击|ハイパーダーククラッシャー|Malicious Moonsault|惡|物理|180|—|1|Z=炽焰咆哮虎Ｚ}}
+{{Movelist/gen|697|海神庄严交响乐|わだつみのシンフォニア|Oceanic Operetta|水|特殊|195|—|1|Z=西狮海壬Ｚ}}
+{{Movelist/gen|698|巨人卫士・阿罗拉|ガーディアン・デ・アローラ|Guardian of Alola|妖精|特殊|—|—|1|Z=卡璞Ｚ}}
+{{Movelist/gen|699|七星夺魂腿|しちせいだっこんたい|Soul-Stealing 7-Star Strike|幽灵|物理|195|—|1|Z=玛夏多Ｚ}}
+{{Movelist/gen|700|驾雷驭电戏冲浪|ライトニングサーフライド|Stoked Sparksurfer|电|特殊|175|—|1|Z=阿罗雷Ｚ}}
+{{Movelist/gen|701|认真起来大爆击|ほんきをだす　こうげき|Pulverizing Pancake|一般|物理|210|—|1|Z=卡比兽Ｚ}}
+{{Movelist/gen|702|九彩昇华齐聚顶|ナインエボルブースト|Extreme Evoboost|一般|变化|—|—|1|Z=伊布Ｚ}}
+{{Movelist/gen|703|起源超新星大爆炸|オリジンズスーパーノヴァ|Genesis Supernova|超能力|特殊|185|—|1|Z=梦幻Ｚ}}
+{{Movelist/gen|704|陷阱甲壳|トラップシェル|Shell Trap|火|特殊|150|100|5}}
+{{Movelist/gen|705|花朵加农炮|フルールカノン|Fleur Cannon|妖精|特殊|130|90|5}}
+{{Movelist/gen|706|精神之牙|サイコファング|Psychic Fangs|超能力|物理|85|100|10}}
+{{Movelist/gen|707|跺脚|じだんだ|Stomping Tantrum|地面|物理|75|100|10}}
+{{Movelist/gen|708|暗影之骨|シャドーボーン|Shadow Bone|幽灵|物理|85|100|10}}
+{{Movelist/gen|709|冲岩|アクセルロック|Accelerock|岩石|物理|40|100|20}}
+{{Movelist/gen|710|水流裂破|アクアブレイク|Liquidation|水|物理|85|100|10}}
+{{Movelist/gen|711|棱镜镭射|プリズムレーザー|Prismatic Laser|超能力|特殊|160|100|10}}
+{{Movelist/gen|712|暗影偷盗|シャドースチール|Spectral Thief|幽灵|物理|90|100|10}}
+{{Movelist/gen|713|流星闪冲|メテオドライブ|Sunsteel Strike|钢|物理|100|100|5}}
+{{Movelist/gen|714|暗影之光|シャドーレイ|Moongeist Beam|幽灵|特殊|100|100|5}}
+{{Movelist/gen|715|泪眼汪汪|なみだめ|Tearful Look|一般|变化|—|—|20}}
+{{Movelist/gen|716|麻麻刺刺|びりびりちくちく|Zing Zap|电|物理|80|100|10}}
+{{Movelist/gen|717|自然之怒|しぜんのいかり|Nature's Madness|妖精|特殊|变化|90|10}}
+{{Movelist/gen|718|多属性攻击|マルチアタック|Multi-Attack|一般|物理|90|100|10}}
+{{Movelist/gen|719|千万伏特|１０００まんボルト|10,000,000 Volt Thunderbolt|电|特殊|195|—|1|Z=智皮卡Ｚ}}
+{{Movelist/gen|720|惊爆大头|ビックリヘッド|Mind Blown|火|特殊|150|100|5}}
+{{Movelist/gen|721|等离子闪电拳|プラズマフィスト|Plasma Fists|电|物理|100|100|15}}
+{{Movelist/gen|722|光子喷涌|フォトンゲイザー|Photon Geyser|超能力|特殊|100|100|5}}
+{{Movelist/gen|723|炽魂热舞烈音爆|ブレイジングソウルビート|Clangorous Soulblaze|龙|特殊|185|—|1|Z=杖尾鳞甲龙Ｚ}}
+{{Movelist/gen|724|狼啸石牙飓风暴|ラジアルエッジストーム|Splintered Stormshards|岩石|物理|190|—|1|Z=鬃岩狼人Ｚ}}
+{{Movelist/gen|725|亲密无间大乱揍|ぽかぼかフレンドタイム|Let's Snuggle Forever|妖精|物理|190|—|1|Z=谜拟ＱＺ}}
+{{Movelist/gen|726|日光回旋下苍穹|サンシャインスマッシャー|Searing Sunraze Smash|钢|物理|200|—|1|Z=索尔迦雷欧Ｚ}}
+{{Movelist/gen|727|月华飞溅落灵霄|ムーンライトブラスター|Menacing Moonraze Maelstrom|幽灵|特殊|200|—|1|Z=露奈雅拉Ｚ}}
+{{Movelist/gen|728|焚天灭世炽光爆|てんこがすめつぼうのひかり|Light That Burns the Sky|超能力|特殊|200|—|1|Z=究极奈克洛Ｚ}}
+{{Movelist/gen|729|电电加速|ばちばちアクセル|Zippy Zap|電|物理|50|100|15}}
+{{Movelist/gen|730|滔滔冲浪|ざぶざぶサーフ|Splishy Splash|水|特殊|90|100|15}}
+{{Movelist/gen|731|飘飘坠落|ふわふわフォール|Floaty Fall|飛行|物理|90|95|15}}
+{{Movelist/gen|732|闪闪雷光|ピカピカサンダー|Pika Papow|電|特殊|变化|—|20}}
+{{Movelist/gen|733|活活气泡|いきいきバブル|Bouncy Bubble|水|特殊|90|100|15}}
+{{Movelist/gen|734|麻麻电击|びりびりエレキ|Buzzy Blitz|電|特殊|90|100|15}}
+{{Movelist/gen|735|熊熊火爆|めらめらバーン|Sizzly Slide|火|物理|90|100|15}}
+{{Movelist/gen|736|哗哗气场|どばどばオーラ|Glitzy Glow|超能力|特殊|90|100|15}}
+{{Movelist/gen|737|坏坏领域|わるわるゾーン|Baddy Bad|惡|特殊|90|100|15}}
+{{Movelist/gen|738|茁茁轰炸|すくすくボンバー|Sappy Seed|草|物理|90|100|15}}
+{{Movelist/gen|739|冰冰霜冻|こちこちフロスト|Freezy Frost|冰|特殊|90|100|15}}
+{{Movelist/gen|740|亮亮风暴|きらきらストーム|Sparkly Swirl|妖精|特殊|90|100|15}}
+{{Movelist/gen|741|砰砰击破|ブイブイブレイク|Veevee Volley|一般|物理|变化|—|20}}
+{{Movelist/gen|742|钢拳双击|ダブルパンツァー|Double Iron Bash|鋼|物理|60|100|5}}
